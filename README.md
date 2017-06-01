@@ -78,8 +78,9 @@
     </p>
     <br>
     <span>
-    In <a href="https://www.youtube.com/watch?v=sKSx7QqTG3Q">here</a> you will see more about attributes.
+    <a href="https://www.youtube.com/watch?v=sKSx7QqTG3Q">here</a> you will see more about attributes.
     </span>
+    <br>
     <br>
     <p>
       <b>src</b>: source - <b>alt</b>: alternate text (text displayed when image doesnt load, for broken requests, for blind people)<br>
