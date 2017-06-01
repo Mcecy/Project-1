@@ -64,6 +64,7 @@
     In <a href="https://www.youtube.com/watch?v=XscUH5_V6kw">this video</a> you have some tags and how they function.
     </p>
     <br>
+    <br>
     <b>Tip: Always put a closing tab when placing an opening tag so you do not forget it and cause problems.</b><br>
     <br>
     <h4>HTML ATTRIBUTES</h4>
@@ -111,10 +112,7 @@
         <img src="https://s-media-cache-ak0.pinimg.com/originals/c3/16/b8/c316b804abc25e9b1c509b1a96d5c9f6.jpg" alt="HTMl Structure: HTML-Head-Title-Body">
     <br>
     <br>
-    <br>
-    <br>
     Items <b>< h1 ></b>, <b>< h2 ></b>, until <b>< h6 ></b>, should be in indentation. Indentation indicates the beggining of a new concept, like items on a list that keeps deepening.<br>
-    <br>
     <br>
     <br>
     <br>
