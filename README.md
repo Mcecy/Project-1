@@ -79,7 +79,7 @@
     </p>
     <br>
     <span>
-    <a href="https://www.youtube.com/watch?v=sKSx7QqTG3Q">here</a> you will see more about attributes.
+    <a href="https://www.youtube.com/watch?v=sKSx7QqTG3Q">Here</a> you will see more about attributes.
     </span>
     <br>
     <br>
