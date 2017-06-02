@@ -81,6 +81,7 @@
     <a href="https://www.youtube.com/watch?v=sKSx7QqTG3Q">Here</a> you will see more about attributes.
     </span>
     <br>
+    <br>
     <p>
       <b>src</b>: source - <b>alt</b>: alternate text (text displayed when image doesnt load, for broken requests, for blind people)<br>
       <b>VOID TAGS</b>: Have no content, therefore, do not need closing tags.
@@ -110,11 +111,7 @@
         <img src="https://s-media-cache-ak0.pinimg.com/originals/c3/16/b8/c316b804abc25e9b1c509b1a96d5c9f6.jpg" alt="HTMl Structure: HTML-Head-Title-Body">
     <br>
     <br>
-    <br>
-    <br>
     Items <b>< h1 ></b>, <b>< h2 ></b>, until <b>< h6 ></b>, should be in indentation. Indentation indicates the beggining of a new concept, like items on a list that keeps deepening.<br>
-    <br>
-    <br>
     <br>
     <br>
     <br>
