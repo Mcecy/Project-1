@@ -78,7 +78,7 @@
     </p>
     <br>
     <span>
-    In <a href="https://www.youtube.com/watch?v=sKSx7QqTG3Q">here</a> you will see more about attributes.
+    <a href="https://www.youtube.com/watch?v=sKSx7QqTG3Q">Here</a> you will see more about attributes.
     </span>
     <br>
     <p>
@@ -88,7 +88,7 @@
       <br>
     <h4>WHITESPACE</h4>
     <p>
-      All whitespace, lines and tabs turn into a single line. To force the HTML to have multiple lines, we use a void tag called < br >. You apply it after a line you want to break.<br>
+      All whitespace, lines and tabs turn into a single line. To force the HTML to have multiple lines, we use a void tag called <b>< br ></b>. You apply it after a line you want to break.<br>
       Another tag you can use for breaking lines is called <b>< p ></b>.
     </p>
     <br>
