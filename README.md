@@ -110,7 +110,6 @@
     <br>
         <img src="https://s-media-cache-ak0.pinimg.com/originals/c3/16/b8/c316b804abc25e9b1c509b1a96d5c9f6.jpg" alt="HTMl Structure: HTML-Head-Title-Body">
     <br>
-    <br>
     Items <b>< h1 ></b>, <b>< h2 ></b>, until <b>< h6 ></b>, should be in indentation. Indentation indicates the beggining of a new concept, like items on a list that keeps deepening.<br>
     <br>
     <br>
